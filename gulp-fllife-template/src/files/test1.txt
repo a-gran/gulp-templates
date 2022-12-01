@@ -1,0 +1,2 @@
+Hello gulp!!!
+Hello js!!

@@ -20,6 +20,7 @@ export const path = {
 	},
 
 	watch: {
+		files: `${srcFolder}/files/**/*.*`
 	},
 
 	clean: buildFolder,
