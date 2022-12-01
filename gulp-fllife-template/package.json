@@ -1,0 +1,16 @@
+{
+	"name": "gulp-fllife-template",
+	version: "1.0.0",
+	"description": "template gulp by freelance by life",
+	"main": "gulpfile.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"gulp",
+		"template"
+	],
+	"author": "Aristarh Gran <awebdeff@gmail.com>",
+	"license": "ISC"
+}
