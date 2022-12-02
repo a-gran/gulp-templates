@@ -1,28 +1,29 @@
 {
-  "name": "gulp-fllife-template",
-  "version": "1.0.0",
-  "description": "template gulp from freelance by life",
-  "main": "gulpfile.js",
-  "type": "module",
-  "scripts": {
-    "test": ""
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/a-gran/gulp-templates.git"
-  },
-  "keywords": [
-    "gulp",
-    "template",
-    "js"
-  ],
-  "author": "Aristarh Gran <awebdeff@gmail.com>",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/a-gran/gulp-templates/issues"
-  },
-  "homepage": "https://github.com/a-gran/gulp-templates#readme",
-  "devDependencies": {
-    "gulp": "^4.0.0"
-  }
+	"name": "gulp-fllife-template",
+	"version": "1.0.0",
+	"description": "template gulp from freelance by life",
+	"main": "gulpfile.js",
+	"type": "module",
+	"scripts": {
+		"test": ""
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/a-gran/gulp-templates.git"
+	},
+	"keywords": [
+		"gulp",
+		"template",
+		"js"
+	],
+	"author": "Aristarh Gran <awebdeff@gmail.com>",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/a-gran/gulp-templates/issues"
+	},
+	"homepage": "https://github.com/a-gran/gulp-templates#readme",
+	"devDependencies": {
+		"del": "^6.1.1",
+		"gulp": "^4.0.0"
+	}
 }
